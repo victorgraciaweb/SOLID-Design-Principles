@@ -1,6 +1,6 @@
 <?php
 
-namespace ISP2;
+namespace ISP;
 
 class Bird implements IAnimalVolador
 {

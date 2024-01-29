@@ -1,6 +1,6 @@
 <?php
 
-namespace ISP2;
+namespace ISP;
 
 interface IAnimalVolador extends IAnimal
 {
